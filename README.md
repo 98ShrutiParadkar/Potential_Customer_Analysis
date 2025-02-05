@@ -53,13 +53,13 @@ This clustering approach enables businesses to tailor marketing efforts, improve
 
 ### 📊 Best-Selling Product Analysis
 
-![Best-Selling Product](best_selling_product.png)
+![Image](https://github.com/user-attachments/assets/be01f2a4-280c-44b3-bc2b-845c7d2faf0c)
 
 ### 🚀 Customer Segmentation (Loyal & Potential Customers)
 - **Loyal Customers:** These customers belong to the cluster with the highest total sales and highest average sales per customer. They make frequent purchases and contribute significantly to revenue.
 - **Potential Customers:** These customers belong to the cluster with a high customer count but lower total sales. They have purchasing interest but require targeted marketing to convert them into loyal customers.
 
-![Customer Clustering](customer_clustering.png)
+![Image](https://github.com/user-attachments/assets/2b3d034e-07b5-4029-b499-c68446395f87)
 
 ### 📌 Future Scope
 The processed dataset can be further used for predictive modeling and strategic decision-making to enhance customer engagement and retention.
